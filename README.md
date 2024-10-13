@@ -49,8 +49,3 @@ Once the analysis is complete, you can export or share the dashboard with stakeh
 ## Conclusion
 The **Company Employee Attrition Analysis** project effectively analyzes employee turnover using Power BI. By leveraging visualizations and KPIs, this dashboard helps HR professionals and managers make informed decisions based on real-time data.
 
-## Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/employee-attrition-analysis.git
